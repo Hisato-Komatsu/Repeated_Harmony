@@ -10,6 +10,8 @@ NumPy 1.26.0
 
 (Matplotlib 3.9.2 , pandas 2.2.3 : used only for visualization)
 
+Actual results of numerical experiments are provided in data_Sep12_2026
+
 # Declaration of generative AI and AI-assisted technologies 
 
 During the development of this code, the author used Microsoft Copilot and ChatGPT for code reviews and improvement suggestions.
